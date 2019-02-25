@@ -2,7 +2,7 @@ import serial
 from time import sleep, time
 from nb_iot import *
 
-bc95 = iSYNC_NB('COM55')
+bc95 = iSYNC_NB('/dev/ttyUSB0')
 bc95.setupDevice()
 
 previous_time = time()
