@@ -1,2 +1,2 @@
 # iSYNC_BC95_PYTHON
-อย่าลืมลง pyserial นะครับ
+ทำงานบน python3 และอย่าลืมลง pyserial นะครับ
